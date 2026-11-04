@@ -12,5 +12,6 @@ Also worked on designing sound effects, using synthesis techniques to create mor
 
 ## Tech
 _Game Engines_: Godot and Unity
+
 _Audio_: FMOD and Reaper
 
