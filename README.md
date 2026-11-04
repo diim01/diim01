@@ -11,7 +11,5 @@ I've been composing in various styles, from chiptune and electronic music to oth
 Also worked on designing sound effects, using synthesis techniques to create more digital sounds, as well as foley and recorded sounds to create realistic soundscapes. On the technical side, I've implemented sound effects via FMOD to achieve a more immersive audio experience.
 
 ## Tech
-_Game Engines_: Godot and Unity
-
-_Audio_: FMOD and Reaper
+_Game Engines_: Godot and Unity // _Audio_: FMOD and Reaper
 
